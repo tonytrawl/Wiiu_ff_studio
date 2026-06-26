@@ -95,7 +95,7 @@ python wiiu_ff_studio.py
 
 ```
 
-*Alternatively, compile a completely isolated, standalone Windows executable by running the native `build.bat` script (see `USAGE.md` for extended parameters).*
+*Alternatively, run standalone Windows executable (see `USAGE.md` for extended parameters).*
 
 ### Headless CLI Usage
 
