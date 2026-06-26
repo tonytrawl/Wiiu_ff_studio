@@ -3,6 +3,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://github.com/)
 [![Target Game](https://img.shields.io/badge/Game-Black_Ops_II_(T6)-red.svg)](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II)
+[![Buy me a Coffee](https://img.shields.io/badge/Support%20My%20Work-Buy%20me%20a%20coffee%20%E2%98%95-chocolate?style=plastic)](https://buymeacoffee.com/tonytrawl)
 
 A comprehensive, low-level engineering toolkit and GUI utility for analyzing, modifying, and rebuilding **Black Ops II (T6) Wii U fastfiles (`.ff`)**.
 
