@@ -107,11 +107,6 @@ OAT env flags (set them when invoking `Unlinker.exe --list <file>.ff`):
 > named to match before invoking it. Keep some free disk space next to the source.
 
 ---
-
-## Building a standalone EXE
-
-`build.bat` uses **PyInstaller** to produce a single-file `WiiU_FF_Studio.exe`:
-
 ```
 build.bat
 ```
