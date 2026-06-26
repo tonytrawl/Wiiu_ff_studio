@@ -7,7 +7,7 @@
 
 A comprehensive toolkit and GUI utility for analyzing, modifying, and rebuilding **Black Ops II (T6) Wii U fastfiles (`.ff`)**.
 
-The Wii U build of T6 packages its zones inside a complex, big-endian, signed, and Salsa20-encrypted container. Because legacy PC and console modding tools fail to read or serialize this specific pipeline correctly, this studio provides a pristine, native Wii U codec, a structural integrity validator, and a deeply customized write-path integration built on top of OpenAssetTools (OAT).
+The Wii U build of T6 packages its zones inside a complex, big-endian, signed, and Salsa20-encrypted container. Because legacy PC and console modding tools fail to read or serialize this specific pipeline correctly, this studio provides a native Wii U codec, a structural integrity validator, and a deeply customized write-path integration built on top of OpenAssetTools (OAT).
 
 ---
 
